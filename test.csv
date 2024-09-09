@@ -1,0 +1,7 @@
+eq(married),eq(sex),lt(age),action(title)
+true,female,12,Jr
+true,female,32,Mrs
+false,female,100,Mr.Dead
+true,male,12,Jr
+true,male,32,Mr
+true,male,100,Mr.Dead
